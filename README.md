@@ -1,4 +1,4 @@
-# Digital Clock
+# Digital Clock Michelle McCarthy
 
 ### Create a digital clock in your browser!
 
